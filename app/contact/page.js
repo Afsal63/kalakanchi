@@ -1,10 +1,10 @@
 import Image from "next/image";
 
 const contactDetails = [
-  { label: "Email", value: "hello@kalakanchi.com" },
-  { label: "Phone", value: "+91 98765 43210" },
-  { label: "Studio", value: "Kanchipuram, Tamil Nadu, India" },
-  { label: "Hours", value: "Mon - Sat, 10 AM - 7 PM" },
+  { label: "Email", value: "kalakanchikanchipuram@gmail.com " },
+  { label: "Phone", value: "+91 8330874051" },
+  { label: "Studio", value: "Kottayam, Kerala, India" },
+  { label: "Hours", value: "Mon - Sun" },
 ];
 
 export const metadata = {

@@ -51,10 +51,19 @@ export default function Footer() {
         <div>
           <h3 className="eyebrow">Contact</h3>
           <div className="mt-4 space-y-3 text-sm text-[var(--muted)]">
-            <p>hello@kalakanchi.com</p>
-            <p>+91 98765 43210</p>
-            <p>Kanchipuram, Tamil Nadu</p>
-            <p>Mon - Sat, 10 AM - 7 PM</p>
+            <p>kalakanchikanchipuram@gmail.com 
+
+</p>
+            <p>+91 8330874051
+</p>
+            <p>Kottayam, Kerala
+
+
+</p>
+            <p>Mon - Sun
+
+
+</p>
           </div>
         </div>
 

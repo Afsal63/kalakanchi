@@ -2,7 +2,7 @@
 
 import { usePathname } from "next/navigation";
 
-const phoneNumber = "919876543210";
+const phoneNumber = "918330874051";
 
 export default function FloatingWhatsApp() {
   const pathname = usePathname();
